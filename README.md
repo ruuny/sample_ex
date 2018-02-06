@@ -1,2 +1,2 @@
 # sample_ex
-To demostrate git
+To demostrate gitt
